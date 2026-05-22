@@ -50,6 +50,7 @@ title: 捐赠支持
                     <li>EIN：<strong>414533517</strong></li>
                 </ul>
                 <p class="note"><a href="https://doublethedonation.com/matching-gift-search/" target="_blank">查询我的公司是否参与 →</a></p>
+                <p class="note">如果您的公司也支持配捐或志愿服务换捐款，欢迎将公司专属链接发送至 <a href="mailto:admins@cdqz.org">admins@cdqz.org</a>，我们会将其添加到此页面。</p>
             </div>
         </div>
     </div>

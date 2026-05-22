@@ -30,16 +30,20 @@ title: 捐赠支持
         <div class="methods-grid">
             <div class="method-card">
                 <h3>Zelle</h3>
-                <p>您可以通过 Zelle 直接向校友会账户转账：<br>
-                账户：<strong>finance@cdqz.org</strong></p>
+                <p>您可以通过 Zelle 直接向校友会账户转账：</p>
+                <ul>
+                    <li>账户：<strong>finance@cdqz.org</strong></li>
+                </ul>
                 <p class="note">转账完成后请发邮件至 <a href="mailto:finance@cdqz.org">finance@cdqz.org</a> 告知我们，方便对账。</p>
             </div>
             <div class="method-card">
                 <h3>公司配捐（Benevity）</h3>
                 <p>如果您所在公司使用 <strong>Benevity</strong> 平台（如 Google、Microsoft、Apple 等众多科技公司），您可以通过公司配捐系统向校友会捐款，公司将同等匹配您的捐款金额。</p>
-                <p>请在 Benevity 中搜索：<br>
-                机构名称：<strong>CHENGDU NO 7 HIGH SCHOOL ALUMNI ASSOCIATION NORTH AMERICA INC</strong><br>
-                EIN：<strong>414533517</strong></p>
+                <p>请在 Benevity 中搜索：</p>
+                <ul>
+                    <li>机构名称：<strong>CHENGDU NO 7 HIGH SCHOOL ALUMNI ASSOCIATION NORTH AMERICA INC</strong></li>
+                    <li>EIN：<strong>414533517</strong></li>
+                </ul>
                 <div class="donation-button">
                     <a href="https://causes.benevity.org/causes/840-414533517" target="_blank" class="cta-button">在 Benevity 上捐款 →</a>
                 </div>

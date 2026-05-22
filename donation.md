@@ -47,11 +47,15 @@ title: 捐赠支持
                 <div class="donation-button">
                     <a href="https://doublethedonation.com/matching-gift-search/" target="_blank" class="cta-button-secondary">查询我的公司 →</a>
                 </div>
-                <p class="note" style="margin-top:1rem;">使用 Benevity 平台时请搜索：<br>
+                <p style="margin-top:1rem;"><strong>Microsoft 员工</strong>可直接点击：</p>
+                <div class="donation-button">
+                    <a href="http://microsoft.benevity.org/cause/840-414533517" target="_blank" class="cta-button">Microsoft 员工捐款通道 →</a>
+                </div>
+                <p class="note" style="margin-top:1rem;">其他使用 Benevity 平台的公司，请搜索：<br>
                 机构名称：<strong>CHENGDU NO 7 HIGH SCHOOL ALUMNI ASSOCIATION NORTH AMERICA INC</strong><br>
                 EIN：<strong>414533517</strong></p>
                 <div class="donation-button">
-                    <a href="https://causes.benevity.org/causes/840-414533517" target="_blank" class="cta-button">在 Benevity 上操作 →</a>
+                    <a href="https://causes.benevity.org/causes/840-414533517" target="_blank" class="cta-button-secondary">通用 Benevity 页面 →</a>
                 </div>
             </div>
         </div>

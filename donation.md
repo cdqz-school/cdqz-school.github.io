@@ -38,25 +38,13 @@ title: 捐赠支持
             </div>
             <div class="method-card">
                 <h3>公司配捐 &amp; 志愿服务换捐款</h3>
-                <p>很多大公司（如 Google、Microsoft、Apple 等）提供两类项目，<strong>不一定需要自己捐钱</strong>：</p>
-                <ul>
-                    <li><strong>Matching Gift（配捐）</strong>：员工捐款，公司等额匹配</li>
-                    <li><strong>Volunteer Grant（志愿服务换捐款）</strong>：参与校友会活动或志愿服务，公司按服务时间向我们捐款</li>
-                </ul>
-                <p style="margin-top:1rem;"><strong>Microsoft 员工</strong>可直接点击：</p>
-                <div class="donation-button">
-                    <a href="http://microsoft.benevity.org/cause/840-414533517" target="_blank" class="cta-button">Microsoft 员工捐款通道 →</a>
+                <p>很多公司提供配捐或志愿服务换捐款项目，点击您所在公司的 logo 直达捐款通道：</p>
+                <div class="company-logos">
+                    <a href="http://microsoft.benevity.org/cause/840-414533517" target="_blank" class="company-logo-card">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/512px-Microsoft_logo.svg.png" alt="Microsoft">
+                    </a>
                 </div>
-                <p class="note" style="margin-top:1rem;">其他使用 Benevity 平台的公司，请搜索：<br>
-                机构名称：<strong>CHENGDU NO 7 HIGH SCHOOL ALUMNI ASSOCIATION NORTH AMERICA INC</strong><br>
-                EIN：<strong>414533517</strong></p>
-                <div class="donation-button">
-                    <a href="https://causes.benevity.org/causes/840-414533517" target="_blank" class="cta-button-secondary">通用 Benevity 页面 →</a>
-                </div>
-                <p class="note" style="margin-top:1rem;">不确定您的公司是否参与？可前往以下页面，滚动到底部搜索查询：</p>
-                <div class="donation-button">
-                    <a href="https://doublethedonation.com/matching-gift-search/" target="_blank" class="cta-button-secondary">查询我的公司 →</a>
-                </div>
+                <p class="note">没有看到您的公司？可前往 <a href="https://causes.benevity.org/causes/840-414533517" target="_blank">通用 Benevity 页面</a> 搜索，EIN：<strong>414533517</strong>。或 <a href="https://doublethedonation.com/matching-gift-search/" target="_blank">查询公司是否参与</a>。</p>
             </div>
         </div>
     </div>

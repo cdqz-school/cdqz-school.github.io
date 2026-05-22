@@ -43,9 +43,9 @@ title: 捐赠支持
                     <li><strong>Matching Gift（配捐）</strong>：员工捐款，公司等额匹配</li>
                     <li><strong>Volunteer Grant（志愿服务换捐款）</strong>：参与校友会活动或志愿服务，公司按服务时间向我们捐款</li>
                 </ul>
-                <p>可前往以下页面，在搜索框中输入您的公司名称，查看是否提供相关项目：</p>
+                <p>可先查看以下列表，确认您的公司是否提供 Volunteer Grant，再前往公司内网（HR Portal）申请：</p>
                 <div class="donation-button">
-                    <a href="https://greatergood.org/employee-matching" target="_blank" class="cta-button-secondary">查询我的公司 →</a>
+                    <a href="https://doublethedonation.com/top-volunteer-grant-companies-list/" target="_blank" class="cta-button-secondary">查看提供 Volunteer Grant 的公司列表 →</a>
                 </div>
                 <p class="note" style="margin-top:1rem;">使用 Benevity 平台时请搜索：<br>
                 机构名称：<strong>CHENGDU NO 7 HIGH SCHOOL ALUMNI ASSOCIATION NORTH AMERICA INC</strong><br>

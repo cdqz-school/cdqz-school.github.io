@@ -31,25 +31,29 @@ title: 捐赠支持
         <h2>捐赠方式</h2>
         <div class="methods-grid">
             <div class="method-card">
-                <h3>公司捐款系统</h3>
-                <p>各大公司的捐款系统正在接入当中</p>
-                <p class="note">敬请期待</p>
+                <h3>Zelle</h3>
+                <p>您可以通过 Zelle 直接向校友会账户转账：</p>
+                <ul>
+                    <li>Zelle 账户：<strong>finance@cdqz.org</strong></li>
+                </ul>
+                <p class="note">转账完成后请发邮件至 <a href="mailto:finance@cdqz.org">finance@cdqz.org</a> 告知我们，方便对账。</p>
+            </div>
+            <div class="method-card">
+                <h3>公司配捐（Benevity）</h3>
+                <p>如果您所在公司使用 <strong>Benevity</strong> 平台（如 Google、Microsoft、Apple 等众多科技公司），您可以通过公司配捐系统向校友会捐款，公司将同等匹配您的捐款金额。</p>
+                <p>请在 Benevity 中搜索：</p>
+                <ul>
+                    <li>机构名称：<strong>CHENGDU NO 7 HIGH SCHOOL ALUMNI ASSOCIATION NORTH AMERICA INC</strong></li>
+                    <li>EIN：<strong>414533517</strong></li>
+                </ul>
+                <div class="donation-button">
+                    <a href="https://causes.benevity.org/causes/840-414533517" target="_blank" class="cta-button">在 Benevity 上捐款 →</a>
+                </div>
             </div>
         </div>
     </div>
 </section>
 
-<section class="donation-form">
-    <div class="container">
-        <h2>捐赠登记</h2>
-        <div class="form-content">
-            <p>为了方便我们对账，捐助后请填写以下表格：</p>
-            <div class="form-button">
-                <a href="https://forms.gle/4fQ1uPxKLmj6hhWY8" target="_blank" class="cta-button">填写捐款信息</a>
-            </div>
-        </div>
-    </div>
-</section>
 
 <section class="donation-notes">
     <div class="container">
@@ -59,7 +63,8 @@ title: 捐赠支持
                 <li>所有捐赠都是自愿的，金额不限</li>
                 <li>捐赠信息将严格保密</li>
                 <li>我们会定期公布捐赠使用情况</li>
-                <li>如有任何问题，请联系：cdqz_alumni@googlegroups.com</li>
+                <li>如需捐款收据，请发邮件至 <a href="mailto:finance@cdqz.org">finance@cdqz.org</a> 申请</li>
+                <li>如有任何问题，请联系：<a href="mailto:admins@cdqz.org">admins@cdqz.org</a></li>
             </ul>
         </div>
     </div>

@@ -29,6 +29,12 @@ title: Home
         <h3>经验分享</h3>
         <p>资深校友经验分享，帮助新生代校友发展</p>
     </div>
+
+    <div class="feature-card">
+        <img src="/assets/images/network.svg" alt="Donation Icon">
+        <h3><a href="/donation">支持校友会</a></h3>
+        <p>通过 Zelle 或公司配捐支持校友会运营，助力更多校友活动</p>
+    </div>
 </div>
 
 

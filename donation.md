@@ -19,9 +19,7 @@ title: 捐赠支持
                 <li>税务支出</li>
                 <li>活动组织</li>
             </ul>
-            <div class="donation-report">
-                <p><a href="https://docs.google.com/spreadsheets/d/1knkfbOSkbzpgHtOgweLKCoEyUcdekEdP5K1O3zqDEpE/edit?usp=sharing" target="_blank" class="report-link">查看目前已捐助的资金情况 →</a></p>
-            </div>
+
         </div>
     </div>
 </section>

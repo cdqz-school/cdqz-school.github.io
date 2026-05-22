@@ -37,15 +37,21 @@ title: 捐赠支持
                 <p class="note">转账完成后请发邮件至 <a href="mailto:finance@cdqz.org">finance@cdqz.org</a> 告知我们，方便对账。</p>
             </div>
             <div class="method-card">
-                <h3>公司配捐（Benevity）</h3>
-                <p>如果您所在公司使用 <strong>Benevity</strong> 平台（如 Google、Microsoft、Apple 等众多科技公司），您可以通过公司配捐系统向校友会捐款，公司将同等匹配您的捐款金额。</p>
-                <p>请在 Benevity 中搜索：</p>
+                <h3>公司配捐 &amp; 志愿服务换捐款</h3>
+                <p>很多大公司（如 Google、Microsoft、Apple 等）提供两类项目，<strong>不一定需要自己捐钱</strong>：</p>
                 <ul>
-                    <li>机构名称：<strong>CHENGDU NO 7 HIGH SCHOOL ALUMNI ASSOCIATION NORTH AMERICA INC</strong></li>
-                    <li>EIN：<strong>414533517</strong></li>
+                    <li><strong>Matching Gift（配捐）</strong>：员工捐款，公司等额匹配</li>
+                    <li><strong>Volunteer Grant（志愿服务换捐款）</strong>：参与校友会活动或志愿服务，公司按服务时间向我们捐款</li>
                 </ul>
+                <p>可前往以下网站，在页面最下方搜索您的公司，查看是否提供 Matching Gift 或 Volunteer Grant：</p>
                 <div class="donation-button">
-                    <a href="https://causes.benevity.org/causes/840-414533517" target="_blank" class="cta-button">在 Benevity 上捐款 →</a>
+                    <a href="https://doublethedonation.com/matching-gift-database/" target="_blank" class="cta-button-secondary">查询我的公司 →</a>
+                </div>
+                <p class="note" style="margin-top:1rem;">使用 Benevity 平台时请搜索：<br>
+                机构名称：<strong>CHENGDU NO 7 HIGH SCHOOL ALUMNI ASSOCIATION NORTH AMERICA INC</strong><br>
+                EIN：<strong>414533517</strong></p>
+                <div class="donation-button">
+                    <a href="https://causes.benevity.org/causes/840-414533517" target="_blank" class="cta-button">在 Benevity 上操作 →</a>
                 </div>
             </div>
         </div>

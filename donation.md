@@ -43,10 +43,6 @@ title: 捐赠支持
                     <li><strong>Matching Gift（配捐）</strong>：员工捐款，公司等额匹配</li>
                     <li><strong>Volunteer Grant（志愿服务换捐款）</strong>：参与校友会活动或志愿服务，公司按服务时间向我们捐款</li>
                 </ul>
-                <p>可前往以下页面，<strong>滚动到底部</strong>搜索您的公司，查看是否提供相关项目：</p>
-                <div class="donation-button">
-                    <a href="https://doublethedonation.com/matching-gift-search/" target="_blank" class="cta-button-secondary">查询我的公司 →</a>
-                </div>
                 <p style="margin-top:1rem;"><strong>Microsoft 员工</strong>可直接点击：</p>
                 <div class="donation-button">
                     <a href="http://microsoft.benevity.org/cause/840-414533517" target="_blank" class="cta-button">Microsoft 员工捐款通道 →</a>
@@ -56,6 +52,10 @@ title: 捐赠支持
                 EIN：<strong>414533517</strong></p>
                 <div class="donation-button">
                     <a href="https://causes.benevity.org/causes/840-414533517" target="_blank" class="cta-button-secondary">通用 Benevity 页面 →</a>
+                </div>
+                <p class="note" style="margin-top:1rem;">不确定您的公司是否参与？可前往以下页面，滚动到底部搜索查询：</p>
+                <div class="donation-button">
+                    <a href="https://doublethedonation.com/matching-gift-search/" target="_blank" class="cta-button-secondary">查询我的公司 →</a>
                 </div>
             </div>
         </div>

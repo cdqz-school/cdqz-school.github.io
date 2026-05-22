@@ -41,10 +41,15 @@ title: 捐赠支持
                 <p>很多公司提供配捐或志愿服务换捐款项目，点击您所在公司的 logo 直达捐款通道：</p>
                 <div class="company-logos">
                     <a href="http://microsoft.benevity.org/cause/840-414533517" target="_blank" class="company-logo-card">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/512px-Microsoft_logo.svg.png" alt="Microsoft">
+                        <img src="/images/microsoft-logo.svg" alt="Microsoft">
                     </a>
                 </div>
-                <p class="note">没有看到您的公司？可前往 <a href="https://causes.benevity.org/causes/840-414533517" target="_blank">通用 Benevity 页面</a> 搜索，EIN：<strong>414533517</strong>。或 <a href="https://doublethedonation.com/matching-gift-search/" target="_blank">查询公司是否参与</a>。</p>
+                <p class="note">没有看到您的公司？请在公司的配捐系统或 <a href="https://causes.benevity.org/causes/840-414533517" target="_blank">Benevity</a> 中搜索：</p>
+                <ul>
+                    <li>机构名称：<strong>CHENGDU NO 7 HIGH SCHOOL ALUMNI ASSOCIATION NORTH AMERICA INC</strong></li>
+                    <li>EIN：<strong>414533517</strong></li>
+                </ul>
+                <p class="note"><a href="https://doublethedonation.com/matching-gift-search/" target="_blank">查询我的公司是否参与 →</a></p>
             </div>
         </div>
     </div>

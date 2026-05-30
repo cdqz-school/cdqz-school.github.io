@@ -27,6 +27,28 @@ body {
     padding: 0 1rem;
 }
 
+/* Language switching */
+[data-lang="zh"] .en { display: none; }
+[data-lang="en"] .zh { display: none; }
+
+.lang-toggle {
+    background: none;
+    border: 1.5px solid var(--primary-color);
+    color: var(--primary-color);
+    border-radius: 4px;
+    padding: 0.2rem 0.6rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s;
+    flex-shrink: 0;
+}
+
+.lang-toggle:hover {
+    background: var(--primary-color);
+    color: #fff;
+}
+
 /* Header styles */
 .site-header {
     background-color: var(--background-color);

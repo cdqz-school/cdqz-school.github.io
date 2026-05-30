@@ -105,6 +105,12 @@ p {
     text-align: center;
 }
 
+.footer-legal {
+    font-size: 0.75rem;
+    color: var(--light-text, #888);
+    margin-top: 0.5rem;
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
     .nav-links {

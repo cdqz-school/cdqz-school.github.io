@@ -12,7 +12,7 @@ title: 关于我们
     <div class="about-grid">
         <div class="about-content">
             <h2>校友会简介</h2>
-            <p>成都七中北美校友会成立于2020年，是一个非营利性的校友组织。我们致力于为在北美的七中校友搭建交流平台，促进校友间的互助与合作。</p>
+            <p>成都七中北美校友会成立于2020年，是一个在美国注册的 501(c)(3) 非营利组织（登记名称：CHENGDU NO 7 HIGH SCHOOL ALUMNI ASSOCIATION NORTH AMERICA INC，EIN：41-4533517）。我们致力于为在北美的七中校友搭建交流平台，促进校友间的互助与合作。</p>
             <p>作为连接北美七中校友的桥梁，我们希望能够帮助每一位校友在异国他乡找到归属感，同时为母校的发展贡献力量。</p>
         </div>
         <div class="about-image">

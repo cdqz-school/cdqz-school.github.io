@@ -6,8 +6,8 @@ title: Home
 <section class="hero">
     <span class="zh"><h1>成都七中北美校友会</h1></span>
     <span class="en"><h1>CDQZ Alumni Association<br>North America</h1></span>
-    <p class="zh">让每一位七中人在北美都能找到归属感</p>
-    <p class="en">Connecting CDQZ alumni across North America</p>
+    <p class="zh">墨池洗砚，四海同心。</p>
+    <p class="en">Inkstone washed in the Mo Pool, hearts united across the world.</p>
     <a href="#join" class="cta-button zh">加入我们</a>
     <a href="#join" class="cta-button en">Join Us</a>
     <a href="http://lu.ma/cdqz" class="cta-button">活动日历 / Events</a>
@@ -43,8 +43,8 @@ title: Home
         <p class="zh">通过 Zelle 或公司配捐支持校友会运营，助力更多校友活动</p>
         <p class="en">Support our operations via Zelle or corporate matching to enable more alumni events</p>
     </div>
-</div>
 
+</div>
 
 <section class="recent-posts">
     <div class="container">
@@ -68,7 +68,6 @@ title: Home
         </div>
     </div>
 </section>
-
 
 <section class="recent-posts">
     <div class="container">

@@ -15,10 +15,10 @@ title: 关于我们
         <div class="about-content">
             <h2 class="zh">校友会简介</h2>
             <h2 class="en">About Us</h2>
-            <p class="zh">成都七中北美校友会成立于2020年，是一个在美国注册的 501(c)(3) 非营利组织（登记名称：CHENGDU NO 7 HIGH SCHOOL ALUMNI ASSOCIATION NORTH AMERICA INC，EIN：41-4533517）。我们致力于为在北美的七中校友搭建交流平台，促进校友间的互助与合作。</p>
-            <p class="en">Founded in 2020, CDQZ Alumni Association North America is a registered 501(c)(3) nonprofit organization (legal name: CHENGDU NO 7 HIGH SCHOOL ALUMNI ASSOCIATION NORTH AMERICA INC, EIN: 41-4533517). We are dedicated to building a platform for CDQZ alumni in North America to connect, collaborate, and support one another.</p>
-            <p class="zh">作为连接北美七中校友的桥梁，我们希望能够帮助每一位校友在异国他乡找到归属感，同时为母校的发展贡献力量。</p>
-            <p class="en">As a bridge connecting CDQZ alumni across North America, we strive to help every alumnus find a sense of belonging far from home, while contributing to the growth of our alma mater.</p>
+            <p class="zh">成都七中北美校友会成立于2020年，是一个在美国注册的 501(c)(3) 非营利组织（登记名称：CHENGDU NO 7 HIGH SCHOOL ALUMNI ASSOCIATION NORTH AMERICA INC，EIN：41-4533517）。</p>
+            <p class="en">Founded in 2020, CDQZ Alumni Association North America is a registered 501(c)(3) nonprofit organization (legal name: CHENGDU NO 7 HIGH SCHOOL ALUMNI ASSOCIATION NORTH AMERICA INC, EIN: 41-4533517).</p>
+            <p class="zh">作为连接北美七中校友的桥梁，我们秉承着“承墨池洗砚之志，迈向未来，敢为天下先；聚四海校友之心，立足当下，并肩且同行”的理念。希望帮助每一位校友在异国他乡找到归属感，同时为母校的发展贡献力量。</p>
+            <p class="en">As a bridge connecting CDQZ alumni across North America, we are guided by the spirit of the Mo Pool inkstone tradition and a shared commitment to the future and to one another. We aim to help every alumnus find a sense of belonging abroad, while contributing to the continued growth of our alma mater.</p>
         </div>
         <div class="about-image">
             <img src="/images/building.webp" alt="成都七中" class="rounded-image">

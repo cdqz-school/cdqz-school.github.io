@@ -74,21 +74,22 @@ title: Home
         <h2 class="zh">最新博文</h2>
         <h2 class="en">Latest Posts</h2>
         <div class="posts-grid">
-            {% for post in site.posts limit:3 %}
-            <div class="post-card">
-                <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-                <div class="post-date">{{ post.date | date: "%Y年%m月%d日" }}</div>
-                <div class="post-excerpt">
-                    {{ post.excerpt | strip_html | truncatewords: 30 }}
-                </div>
-                <a href="{{ post.url | relative_url }}" class="read-more zh">阅读更多 →</a>
-                <a href="{{ post.url | relative_url }}" class="read-more en">Read More →</a>
-            </div>
-            {% endfor %}
+            <iframe
+              src="https://cd7z.blogspot.com/"
+              title="成都七中北美校友会博客 / CDQZ Alumni Blog"
+              width="100%"
+              height="650"
+              frameborder="0"
+              loading="lazy"
+              style="border: 1px solid #bfcbda88; border-radius: 4px;"
+              allowfullscreen=""
+              aria-hidden="false"
+              tabindex="0"
+            ></iframe>
         </div>
         <div class="view-all">
-            <a href="/blog" class="cta-button-secondary zh">查看所有文章</a>
-            <a href="/blog" class="cta-button-secondary en">View All Posts</a>
+            <a href="https://cd7z.blogspot.com/" target="_blank" rel="noopener" class="cta-button-secondary zh">查看所有博文</a>
+            <a href="https://cd7z.blogspot.com/" target="_blank" rel="noopener" class="cta-button-secondary en">View All Posts</a>
         </div>
     </div>
 </section>

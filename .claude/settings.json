@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -sI -m 15 \"https://cd7z.blogspot.com/feeds/posts/default?alt=json\" -H \"Origin: https://cdqz.school\")",
+      "Read(//opt/homebrew/lib/ruby/gems/4.0.0/extensions/arm64-darwin-25/4.0.0/**)",
+      "Bash(tail -25 eventmachine-1.2.7/gem_make.out)",
+      "Bash(tail -15 http_parser.rb-0.8.1/gem_make.out)",
+      "Bash(ls /opt/homebrew/opt/openssl* -d)",
+      "Bash(gem list *)"
+    ]
+  }
+}

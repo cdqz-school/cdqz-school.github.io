@@ -73,19 +73,17 @@ title: Home
     <div class="container">
         <h2 class="zh">最新博文</h2>
         <h2 class="en">Latest Posts</h2>
-        <div class="posts-grid">
-            <iframe
-              src="https://cd7z.blogspot.com/"
-              title="成都七中北美校友会博客 / CDQZ Alumni Blog"
-              width="100%"
-              height="650"
-              frameborder="0"
-              loading="lazy"
-              style="border: 1px solid #bfcbda88; border-radius: 4px;"
-              allowfullscreen=""
-              aria-hidden="false"
-              tabindex="0"
-            ></iframe>
+        <div class="posts-grid" id="latest-posts">
+            <p class="posts-status">
+                <span class="zh">加载中…</span>
+                <span class="en">Loading…</span>
+            </p>
+            <noscript>
+                <p class="posts-status">
+                    <span class="zh">请在浏览器中启用 JavaScript，或直接访问我们的博客。</span>
+                    <span class="en">Please enable JavaScript, or visit our blog directly.</span>
+                </p>
+            </noscript>
         </div>
         <div class="view-all">
             <a href="https://cd7z.blogspot.com/" target="_blank" rel="noopener" class="cta-button-secondary zh">查看所有博文</a>
@@ -93,6 +91,7 @@ title: Home
         </div>
     </div>
 </section>
+<script src="{{ '/assets/js/latest-posts.js' | relative_url }}" defer></script>
 
 <section id="join" class="join-section">
     <div class="container">
